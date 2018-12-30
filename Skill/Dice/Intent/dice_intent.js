@@ -1,7 +1,8 @@
 /**
  * Dice Intent
  */
-const Intent = require('../../../../src/Intent/intent');
+const Intent = girequire('src/Intent/intent');
+
 const _ = require('underscore');
 const extend = require('extend');
 
